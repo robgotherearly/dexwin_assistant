@@ -63,7 +63,11 @@ dexwin-assistant/
 ├── .gitignore
 ├── .streamlit/
 │   └── secrets.toml   # ignored
-└── README.md
+└── README.md 
+
+```
+
+---
 
 ## ☁️ Deployment
 
